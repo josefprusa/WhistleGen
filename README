@@ -23,3 +23,5 @@ AY
 3) Compile the resulting plates of whistles in OpenSCAD. They are named whistles1.scad up-to whistlesN.scad depending on the number of initials provided.
 
 4) Slice the resulting .stls in Slic3r and print!
+
+///////// 28.4.2012
