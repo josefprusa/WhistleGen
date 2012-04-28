@@ -1,0 +1,25 @@
+Whistle generator is written by Josef Prusa - http://josefprusa.cz
+licensed under Attribution - Non-Commercial - Creative Commons license
+
+
+Whistle model is derivative of Whistle by Zaggo, licensed under the Attribution - Non-Commercial - Creative Commons license.
+
+Font used, Candal, is from More Fontz! by polymaker, licensed under the Attribution - Share Alike - Creative Commons license.
+
+
+//// USING THE GENERATOR
+1) Fill the data.txt with initial which will appear on whistles
+For example:
+
+HA
+CK
+AD
+AY
+
+2) From your command line run the script
+
+"python generator.py"
+
+3) Compile the resulting plates of whistles in OpenSCAD. They are named whistles1.scad up-to whistlesN.scad depending on the number of initials provided.
+
+4) Slice the resulting .stls in Slic3r and print!
